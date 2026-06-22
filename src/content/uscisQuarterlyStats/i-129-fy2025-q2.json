@@ -1,0 +1,12 @@
+{
+  "formType": "I-129",
+  "formName": "Petition for a Nonimmigrant Worker",
+  "fiscalYear": 2025,
+  "quarter": 2,
+  "receipts": 99823,
+  "completions": 85725,
+  "pending": 240000,
+  "rfeRate": 14,
+  "sourceUrl": "https://www.uscis.gov/tools/reports-and-studies/immigration-and-citizenship-data",
+  "lastUpdated": "2026-06-22T03:54:42.035Z"
+}
